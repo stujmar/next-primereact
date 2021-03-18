@@ -7,4 +7,5 @@ npx create-next-app --example with-tailwindcss next-primereact
 ```bash
 npm install primereact --save
 npm install primeicons --save
+npm install quill --save
 ```
