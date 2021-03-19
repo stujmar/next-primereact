@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Editor } from 'primereact/editor';
+import { Editor } from 'primenext/editor';
 
 export default function Home() {
   const [text, setText] = useState("");
